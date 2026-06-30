@@ -16,20 +16,20 @@
 
 ### Learning Summary
 
-#### Data and Information
+#### 1. Data and Information
 - Data consists of raw facts and figures.
 - Information is processed and organized data that is meaningful for decision-making.
 
-#### Data Exploration
+#### 2. Data Exploration
 - The process of understanding, analyzing, and summarizing datasets before applying analytical or machine learning techniques.
 
-#### Need for Data Exploration
+#### 3. Need for Data Exploration
 - Understand the structure of data.
 - Detect missing values and outliers.
 - Identify patterns and relationships.
 - Improve data quality before analysis.
 
-#### Data Sources
+#### 4. Data Sources
 **Primary Data**
 - Collected directly from original sources.
 - Examples: Surveys, Interviews, Experiments.
@@ -38,7 +38,7 @@
 - Collected by others and reused.
 - Examples: Research papers, Government reports, Public datasets.
 
-#### Data Modality
+#### 5.  Data Modality
 Different forms in which data can exist, including:
 - Text
 - Images
@@ -47,10 +47,10 @@ Different forms in which data can exist, including:
 - Time-series
 - Tabular Data
 
-#### Introduction to Machine Learning
+#### 6. Introduction to Machine Learning
 - A branch of Artificial Intelligence that enables computers to learn from data and make predictions without being explicitly programmed.
 
-#### Introduction to Generative AI
+#### 7. Introduction to Generative AI
 - AI models capable of generating new content such as text, images, audio, and code based on learned patterns.
 
 ---
