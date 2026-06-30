@@ -2,10 +2,10 @@
 ## Next-Gen Data Exploration with ML and Generative AI
 
 ### Trainee
-**Name:** Tajinder Kaur
-**URN:** 2435196
-**Branch:** Computer Science and Engineering
-**Section:** CSE-E2
+**Name:** Tajinder Kaur  
+**URN:** 2435196  
+**Branch:** Computer Science and Engineering  
+**Section:** CSE-E2  
 
 ### Training Duration
 **Start Date:** 30 June 2026
@@ -26,3 +26,8 @@ I will update this repository every day with the topics learned, important conce
 
 ---
 
+| Day | Notes |
+|-----|-------|
+| [Day 1](Day1.md) | Introduction to Data & ML |
+| [Day 2](Day2.md) | ... |
+| [Day 3](Day3.md) | ... |
