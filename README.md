@@ -31,7 +31,7 @@ I will update this repository every day with the topics learned, important conce
 | [Day 1](Day1.md) | Introduction to Data & ML |
 | [Day 2](Day2.md) | Basics of Python and Pandas |
 | [Day 3](Day3.md) | Data cleaning |
-| [Day 4](Day4.md) | ... |
+| [Day 4](Day4.md) | Basic EDA techniques |
 | [Day 5](Day5.md) | ... |
 | [Day 6](Day6.md) | ... |
 | [Day 7](Day7.md) | ... |
