@@ -32,10 +32,10 @@ I will update this repository every day with the topics learned, important conce
 | [Day 2](Day2.md) | Basics of Python and Pandas |
 | [Day 3](Day3.md) | Data cleaning |
 | [Day 4](Day4.md) | Basic EDA techniques |
-| [Day 5](Day5.md) | ... |
-| [Day 6](Day6.md) | ... |
-| [Day 7](Day7.md) | ... |
-| [Day 8](Day8.md) | ... |
-| [Day 9](Day8.md) | ... |
+| [Day 5](Day5.md) | Visualization |
+| [Day 6](Day6.md) | Feature Engineering |
+| [Day 7](Day7.md) | Introduction to Principal Component Analysis (PCA) |
+| [Day 8](Day8.md) | Introduction to Class Imbalance |
+| [Day 9](Day9.md) | ... |
 | [Day 10](Day10.md) | ... |
 | [Day 11](Day11.md) | ... |
