@@ -36,6 +36,15 @@ I will update this repository every day with the topics learned, important conce
 | [Day 6](Day6.md) | Feature Engineering |
 | [Day 7](Day7.md) | Introduction to Principal Component Analysis (PCA) |
 | [Day 8](Day8.md) | Introduction to Class Imbalance |
-| [Day 9](Day9.md) | ... |
-| [Day 10](Day10.md) | ... |
-| [Day 11](Day11.md) | ... |
+| [Day 9](Day9.md) | Pattern detection & anomaly identification |
+| [Day 10](Day10.md) | Automated EDA tools |
+| [Day 11](Day11.md) | Basics of ML and SUpervised learning - Linear and logistic regression |
+| [Day 12](Day12.md) | Algorithm - KNN, SVM |
+| [Day 13](Day13.md) | ... |
+| [Day 14](Day14.md) | ... |
+| [Day 15](Day15.md) | ... |
+| [Day 16](Day16.md) | ... |
+| [Day 17](Day17.md) | ... |
+| [Day 18](Day18.md) | ... |
+| [Day 18](Day19.md) | ... |
+| [Day 20](Day20.md) | ... |
