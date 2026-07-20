@@ -40,9 +40,9 @@ I will update this repository every day with the topics learned, important conce
 | [Day 10](Day10.md) | Automated EDA tools |
 | [Day 11](Day11.md) | Basics of ML and SUpervised learning - Linear and logistic regression |
 | [Day 12](Day12.md) | Algorithm - KNN, SVM |
-| [Day 13](Day13.md) | ... |
-| [Day 14](Day14.md) | ... |
-| [Day 15](Day15.md) | ... |
+| [Day 13](Day13.md) | Project progress reviewed |
+| [Day 14](Day14.md) | Decision Tree and Random Forest |
+| [Day 15](Day15.md) | Linear regression, Lasso, Ridge |
 | [Day 16](Day16.md) | ... |
 | [Day 17](Day17.md) | ... |
 | [Day 18](Day18.md) | ... |
