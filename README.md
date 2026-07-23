@@ -43,8 +43,8 @@ I will update this repository every day with the topics learned, important conce
 | [Day 13](Day13.md) | Project progress reviewed |
 | [Day 14](Day14.md) | Decision Tree and Random Forest |
 | [Day 15](Day15.md) | Linear regression, Lasso, Ridge |
-| [Day 16](Day16.md) | ... |
-| [Day 17](Day17.md) | ... |
-| [Day 18](Day18.md) | ... |
-| [Day 18](Day19.md) | ... |
+| [Day 16](Day16.md) | Feature Selection |
+| [Day 17](Day17.md) | Wrapper method, RFECV (Recursive Feature Elimination with Cross Validation) |
+| [Day 18](Day18.md) | Hyperparameter Tuning |
+| [Day 19](Day19.md) | ... |
 | [Day 20](Day20.md) | ... |
